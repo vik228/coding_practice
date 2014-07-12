@@ -1,0 +1,26 @@
+
+#include <iostream>
+struct Node
+{
+	int data;
+	Node *left, *right;
+};
+Node* create (Node* node, int data)
+{
+	//cout << "hii\n";
+	if (node == NULL)
+	{
+		node = new Node;
+		node->data = data;
+		node->left = NULL;
+		node->right = NULL;
+		return node;
+	}
+	if (node->data < data)
+	{
+		node->right = create (node->right, data);
+	}
+	else
+		node->left = create (node->left, data);
+	return node;
+}

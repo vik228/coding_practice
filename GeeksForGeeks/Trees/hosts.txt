@@ -1,0 +1,224 @@
+
+Starting Nmap 5.51 ( http://nmap.org ) at 2014-01-13 13:57 IST
+Nmap scan report for 192.168.67.5
+Host is up (0.00071s latency).
+MAC Address: 00:22:20:06:AB:08 (Mitac Technology)
+Nmap scan report for 192.168.67.8
+Host is up (0.079s latency).
+MAC Address: 78:E4:00:6A:C9:06 (Hon Hai Precision Ind. Co.)
+Nmap scan report for 192.168.67.9
+Host is up (0.00026s latency).
+MAC Address: 00:23:5A:B4:C5:6C (Compal Information (kunshan) CO.)
+Nmap scan report for 192.168.67.11
+Host is up (0.00068s latency).
+MAC Address: 00:26:B9:08:FC:3F (Dell)
+Nmap scan report for 192.168.67.12
+Host is up (0.00042s latency).
+MAC Address: 54:42:49:16:1F:68 (Sony)
+Nmap scan report for 192.168.67.13
+Host is up (0.00038s latency).
+MAC Address: 78:84:3C:E9:DC:AC (Unknown)
+Nmap scan report for 192.168.67.19
+Host is up (0.00076s latency).
+MAC Address: F0:BF:97:59:47:B3 (Unknown)
+Nmap scan report for 192.168.67.20
+Host is up (0.00048s latency).
+MAC Address: 00:E0:4C:03:59:38 (Realtek Semiconductor)
+Nmap scan report for 192.168.67.21
+Host is up (0.19s latency).
+MAC Address: 8C:A9:82:1D:45:84 (Intel Corporate)
+Nmap scan report for 192.168.67.22
+Host is up (0.014s latency).
+MAC Address: 18:03:73:6E:5C:1B (Unknown)
+Nmap scan report for 192.168.67.24
+Host is up (0.0018s latency).
+MAC Address: F0:4D:A2:94:9A:E4 (Dell)
+Nmap scan report for 192.168.67.33
+Host is up (0.0032s latency).
+MAC Address: F0:4D:A2:81:C4:14 (Dell)
+Nmap scan report for 192.168.67.35
+Host is up (0.0033s latency).
+MAC Address: 68:B5:99:E0:AF:0D (Unknown)
+Nmap scan report for 192.168.67.36
+Host is up (0.016s latency).
+MAC Address: 10:BF:48:25:81:FE (Unknown)
+Nmap scan report for 192.168.67.37
+Host is up (0.014s latency).
+MAC Address: 00:24:BE:84:31:C6 (Sony)
+Nmap scan report for 192.168.67.39
+Host is up (0.019s latency).
+MAC Address: 08:9E:01:00:07:9E (Unknown)
+Nmap scan report for 192.168.67.40
+Host is up (0.00042s latency).
+MAC Address: 38:60:77:87:18:12 (Unknown)
+Nmap scan report for 192.168.67.41
+Host is up (0.00038s latency).
+MAC Address: 24:B6:FD:1D:57:90 (Unknown)
+Nmap scan report for 192.168.67.42
+Host is up (0.00038s latency).
+MAC Address: 44:1E:A1:E4:43:12 (Unknown)
+Nmap scan report for 192.168.67.43
+Host is up (0.013s latency).
+MAC Address: A4:BA:DB:BC:D5:01 (Dell)
+Nmap scan report for 192.168.67.47
+Host is up (0.0045s latency).
+MAC Address: 00:1C:BF:76:05:57 (Intel Corporate)
+Nmap scan report for 192.168.67.49
+Host is up (0.00042s latency).
+MAC Address: 00:26:9E:9F:CB:D3 (Quanta Computer)
+Nmap scan report for 192.168.67.50
+Host is up (0.013s latency).
+MAC Address: 00:26:B9:07:78:96 (Dell)
+Nmap scan report for 192.168.67.52
+Host is up (0.00042s latency).
+MAC Address: 78:2B:CB:D6:C0:60 (Unknown)
+Nmap scan report for 192.168.67.70
+Host is up (0.00043s latency).
+MAC Address: 08:2E:5F:85:15:91 (Unknown)
+Nmap scan report for 192.168.67.73
+Host is up (0.00043s latency).
+MAC Address: 78:AC:C0:52:E5:BC (Unknown)
+Nmap scan report for 192.168.67.90
+Host is up (0.00033s latency).
+MAC Address: 00:02:3F:EB:AC:68 (Compal Electronics)
+Nmap scan report for 192.168.67.91
+Host is up (0.019s latency).
+MAC Address: F0:4D:A2:9F:A9:68 (Dell)
+Nmap scan report for 192.168.67.100
+Host is up (0.0099s latency).
+MAC Address: 00:1F:D0:E3:A6:49 (Giga-byte Technology Co.)
+Nmap scan report for 192.168.67.111
+Host is up (0.00041s latency).
+MAC Address: 6C:F0:49:92:80:9D (Giga-byte Technology Co.)
+Nmap scan report for 192.168.67.113
+Host is up (0.00052s latency).
+MAC Address: 00:26:22:A6:35:66 (Compal Information (kunshan) CO.)
+Nmap scan report for 192.168.67.117
+Host is up (0.0018s latency).
+MAC Address: 10:1F:74:1B:69:74 (Unknown)
+Nmap scan report for 192.168.67.121
+Host is up (0.00068s latency).
+MAC Address: 38:EA:A7:EC:4E:48 (Unknown)
+Nmap scan report for 192.168.67.122
+Host is up (0.00064s latency).
+MAC Address: 00:1D:72:76:7F:E7 (Wistron)
+Nmap scan report for 192.168.67.123
+Host is up (0.00052s latency).
+MAC Address: F0:4D:A2:A9:33:6D (Dell)
+Nmap scan report for 192.168.67.124
+Host is up (0.0015s latency).
+MAC Address: 00:22:20:05:9A:2B (Mitac Technology)
+Nmap scan report for 192.168.67.128
+Host is up (0.00065s latency).
+MAC Address: F0:DE:F1:7A:7D:AC (Wistron InfoComm (Kunshan)Co)
+Nmap scan report for 192.168.67.132
+Host is up (0.00045s latency).
+MAC Address: B8:AC:6F:65:83:8E (Dell)
+Nmap scan report for 192.168.67.134
+Host is up (0.00042s latency).
+MAC Address: 00:26:9E:54:92:AB (Quanta Computer)
+Nmap scan report for 192.168.67.139
+Host is up (0.00095s latency).
+MAC Address: F0:4D:A2:A0:03:47 (Dell)
+Nmap scan report for 192.168.67.140
+Host is up (0.00093s latency).
+MAC Address: 00:1D:09:5F:F4:81 (Dell)
+Nmap scan report for 192.168.67.143
+Host is up (0.00048s latency).
+MAC Address: 3C:97:0E:28:B7:BD (Unknown)
+Nmap scan report for 192.168.67.147
+Host is up (0.0012s latency).
+MAC Address: F0:DE:F1:F4:A5:E4 (Wistron InfoComm (Kunshan)Co)
+Nmap scan report for 192.168.67.158
+Host is up (0.0015s latency).
+MAC Address: 04:7D:7B:EE:36:BD (Unknown)
+Nmap scan report for 192.168.67.159
+Host is up (0.0011s latency).
+MAC Address: 14:FE:B5:C2:98:C5 (Unknown)
+Nmap scan report for 192.168.67.162
+Host is up (0.019s latency).
+MAC Address: 00:25:64:DE:6E:84 (Dell)
+Nmap scan report for 192.168.67.164
+Host is up (0.0035s latency).
+MAC Address: F0:DE:F1:7A:7E:07 (Wistron InfoComm (Kunshan)Co)
+Nmap scan report for 192.168.67.165
+Host is up (0.0035s latency).
+MAC Address: 54:42:49:5A:81:FE (Sony)
+Nmap scan report for 192.168.67.167
+Host is up (0.0020s latency).
+MAC Address: 14:FE:B5:C1:D1:0A (Unknown)
+Nmap scan report for 192.168.67.168
+Host is up (0.027s latency).
+MAC Address: 6C:F0:49:58:65:C2 (Giga-byte Technology Co.)
+Nmap scan report for 192.168.67.173
+Host is up (0.00049s latency).
+MAC Address: 00:23:5A:A5:F4:27 (Compal Information (kunshan) CO.)
+Nmap scan report for 192.168.67.179
+Host is up (0.0097s latency).
+MAC Address: D4:3D:7E:38:05:64 (Unknown)
+Nmap scan report for 192.168.67.183
+Host is up (0.20s latency).
+MAC Address: 74:E5:43:0F:2A:4F (Unknown)
+Nmap scan report for 192.168.67.184
+Host is up (0.0097s latency).
+MAC Address: B8:70:F4:2B:81:7A (Unknown)
+Nmap scan report for 192.168.67.185
+Host is up (0.016s latency).
+MAC Address: 10:BF:48:0D:38:8C (Unknown)
+Nmap scan report for 192.168.67.195
+Host is up (0.00053s latency).
+MAC Address: 00:1E:68:E2:A4:1D (Quanta Computer)
+Nmap scan report for 192.168.67.198
+Host is up (0.0047s latency).
+MAC Address: 1C:C1:DE:92:41:9D (Hewlett Packard)
+Nmap scan report for 192.168.67.199
+Host is up (0.00044s latency).
+MAC Address: DC:0E:A1:6D:B8:14 (Unknown)
+Nmap scan report for 192.168.67.200
+Host is up (0.00069s latency).
+MAC Address: 54:42:49:77:28:F3 (Sony)
+Nmap scan report for 192.168.67.205
+Host is up (0.00037s latency).
+MAC Address: 70:71:BC:77:AC:CE (Pegatron)
+Nmap scan report for 192.168.67.207
+Host is up (0.0020s latency).
+MAC Address: 78:AC:C0:44:B0:F2 (Unknown)
+Nmap scan report for 192.168.67.208
+Host is up (0.0011s latency).
+MAC Address: 2C:27:D7:BB:FE:46 (Unknown)
+Nmap scan report for 192.168.67.213
+Host is up (0.00074s latency).
+MAC Address: 5C:F9:DD:42:05:8A (Unknown)
+Nmap scan report for 192.168.67.218
+Host is up (0.0011s latency).
+MAC Address: 78:2B:CB:E0:42:2A (Unknown)
+Nmap scan report for 192.168.67.221
+Host is up (0.0010s latency).
+MAC Address: 00:26:B9:03:88:42 (Dell)
+Nmap scan report for 192.168.67.223
+Host is up (0.00068s latency).
+MAC Address: 54:53:ED:29:7C:DF (Unknown)
+Nmap scan report for 192.168.67.227
+Host is up (0.00060s latency).
+MAC Address: 54:42:49:E9:19:04 (Sony)
+Nmap scan report for 192.168.67.228
+Host is up (0.022s latency).
+MAC Address: 10:1F:74:1E:E9:DC (Unknown)
+Nmap scan report for 192.168.67.230
+Host is up (0.00040s latency).
+MAC Address: 88:AE:1D:D4:93:A7 (Compal Information(kunshan)co.)
+Nmap scan report for 192.168.67.236
+Host is up (0.00053s latency).
+MAC Address: A4:BA:DB:B8:38:13 (Dell)
+Nmap scan report for 192.168.67.239
+Host is up (0.0013s latency).
+MAC Address: E8:9A:8F:97:DD:32 (Unknown)
+Nmap scan report for 192.168.67.252
+Host is up (0.027s latency).
+MAC Address: 00:04:96:27:6E:B5 (Extreme Networks)
+Nmap scan report for 192.168.67.253
+Host is up.
+Nmap scan report for 192.168.67.254
+Host is up (0.00066s latency).
+MAC Address: 00:04:96:1E:56:E0 (Extreme Networks)
+Nmap done: 254 IP addresses (74 hosts up) scanned in 1.54 seconds
